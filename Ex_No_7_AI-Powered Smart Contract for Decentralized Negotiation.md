@@ -99,9 +99,13 @@ If the offer is too low, the contract suggests a counteroffer.
 
 ## Output:
 
+![7 1](https://github.com/user-attachments/assets/402ed4bf-f11c-4d62-9f32-4a78b5e3ae10)
 
+![7 2](https://github.com/user-attachments/assets/fd9fb7a3-3f62-4a6c-9538-7c0e26b44824)
 
+![7 3](https://github.com/user-attachments/assets/c51aa507-31db-4184-ac11-fca17bed761c)
 
+![7 4](https://github.com/user-attachments/assets/cea58982-e87c-4ebf-81e4-3faeb0b91bfc)
 
 
 ## High-Level Overview:
